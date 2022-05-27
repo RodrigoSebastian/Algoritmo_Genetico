@@ -1,3 +1,9 @@
+# Program done by: RSDLA & ISH
+# Date: 26/05/2022
+# Version: 1.0
+# Description: Genetic Algorithm
+# References: Class presentation by Prof. MLBC
+
 from cmath import sin
 import random
 
